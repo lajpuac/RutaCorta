@@ -1,0 +1,10 @@
+C:\Users\FQ202404\source\repos\RutaCorta\RutaCorta\bin\Debug\RutaCorta.exe.config
+C:\Users\FQ202404\source\repos\RutaCorta\RutaCorta\bin\Debug\RutaCorta.exe
+C:\Users\FQ202404\source\repos\RutaCorta\RutaCorta\bin\Debug\RutaCorta.pdb
+C:\Users\FQ202404\source\repos\RutaCorta\RutaCorta\obj\Debug\RutaCorta.csproj.AssemblyReference.cache
+C:\Users\FQ202404\source\repos\RutaCorta\RutaCorta\obj\Debug\RutaCorta.Form1.resources
+C:\Users\FQ202404\source\repos\RutaCorta\RutaCorta\obj\Debug\RutaCorta.Properties.Resources.resources
+C:\Users\FQ202404\source\repos\RutaCorta\RutaCorta\obj\Debug\RutaCorta.csproj.GenerateResource.cache
+C:\Users\FQ202404\source\repos\RutaCorta\RutaCorta\obj\Debug\RutaCorta.csproj.CoreCompileInputs.cache
+C:\Users\FQ202404\source\repos\RutaCorta\RutaCorta\obj\Debug\RutaCorta.exe
+C:\Users\FQ202404\source\repos\RutaCorta\RutaCorta\obj\Debug\RutaCorta.pdb
